@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahman</h1>
 <p align="center">Hi, I'm Rahman. I'm 18. I just started learning frontend. A passionate frontend developer from Azerbajan. </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahman-mammadov" alt="rahman-mammadov" /></a> </p>
 
 
 <h3 align="center">💻 Languages and Tools:</h3>
