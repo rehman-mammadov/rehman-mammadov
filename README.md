@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahman</h1>
-<p align="center">Hi, I'm Rahman. I'm 18. I just started learning frontend. A passionate frontend developer from Azerbajan. </p>
+<p align="center">Hi, I'm Rahman. </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahman-mammadov&label=Profile%20views&color=ffa200&style=flat" alt="rahman-mammadov" /> </p>
 
 [![Discord Profil](https://lanyard.cnrad.dev/api/594201367669768217)](https://discord.com/users/594201367669768217)
