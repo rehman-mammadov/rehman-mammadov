@@ -2,7 +2,6 @@
 <p align="center">Hi, I'm Rahman. </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahman-mammadov&label=Profile%20views&color=ffa200&style=flat" alt="rahman-mammadov" /> </p>
 
-[![Discord Profil](https://lanyard.cnrad.dev/api/594201367669768217)](https://discord.com/users/594201367669768217)
 
 
 <h3 align="center">💻 Languages and Tools:</h3>
